@@ -1,4 +1,4 @@
-# 🏢 Company Operations Database Project – McKinsey & Company  
+# 🏢 Company Operations Database Project
 
 This project was a three-part, semester-long exploration of **data modeling, database design, and end-to-end system implementation**. Over the course of three parts, internal company operations were simulated by designing a relational database and implementing SQL- and Python-driven procedures.
 
@@ -6,9 +6,7 @@ This project was a three-part, semester-long exploration of **data modeling, dat
 
 ## Project Overview  
 
-The company chosen for this project was **McKinsey & Company**, a global management consulting firm specializing in strategic planning, operational improvement, and digital transformation.  
-
-The core objective was to design a database and supporting application for McKinsey’s **internal client billing process**, focusing on:  
+The core objective was to design a database and supporting application for a global management consulting firm's **internal client billing process**, focusing on:  
 - Capturing project data (projects, employees assigned, time worked, expenses)  
 - Aggregating and associating these data points to generate accurate client invoices  
 - Ensuring the system could scale across multiple clients, projects, and consultants simultaneously  
@@ -21,7 +19,7 @@ Database Design · Entity-Relationship (E-R) Modeling · Relational Schema · SQ
 ## Part 1: Business Analysis & E-R Diagram  
 
 **Deliverables:**  
-- A clear **company overview** and breakdown of McKinsey’s internal processes  
+- A clear **company overview** and breakdown of the firm’s internal processes (ex. McKinsey & Co.)
 - **Mockups of internal web portals**, including:  
   - Home portal 
   - Projects/Clients dashboard

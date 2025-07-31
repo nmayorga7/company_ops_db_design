@@ -1,4 +1,4 @@
-# 🏢 Company Operations Database Project
+# Company Operations Database Project
 
 This project was a three-part, semester-long exploration of **data modeling, database design, and end-to-end system implementation**. Over the course of three parts, internal company operations were simulated by designing a relational database and implementing SQL- and Python-driven procedures.
 
